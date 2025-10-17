@@ -1,0 +1,5 @@
+{
+  "name": "Centurion University AI Assistant",
+  "description": "A chatbot designed to answer questions about Centurion University (CUTM), providing information on courses, events, academic calendars, and more.",
+  "requestFramePermissions": []
+}
